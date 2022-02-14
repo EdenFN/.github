@@ -4,9 +4,6 @@
 ### Eden_Common - [Eden_Common](https://github.com/EdenFN/Eden_Common)
 <br />
 
-### Eden_DevOps - [Eden_DevOps](https://github.com/EdenFN/Eden_DevOps)
-<br />
-
 ### User Web Front - [Eden_React_User_Edenden](https://github.com/EdenFN/Eden_React_User_Edenden)
 ### CS Web Front - [Eden_React_CS_Edenden](https://github.com/EdenFN/Eden_React_CS_Edenden)
 ### Admin Web Front - [Eden_React_Admin_Edenden](https://github.com/EdenFN/Eden_React_Admin_Edenden) 
