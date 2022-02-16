@@ -3,7 +3,7 @@
 ---
 <br />
 
-# :beer: [이든파이낸셜 Edenden 프로젝트](https://github.com/orgs/EdenFN/projects/1)
+# :beer: [이든파이낸셜 Edenden 프로젝트](https://github.com/orgs/EdenFN/projects/2)
 <br />
 
 
