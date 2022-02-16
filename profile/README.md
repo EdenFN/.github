@@ -1,10 +1,19 @@
-![logo](https://user-images.githubusercontent.com/58081455/154008699-c04cd9b6-7ba3-4fcb-9579-6a3dbe5fbfc1.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/58081455/154008699-c04cd9b6-7ba3-4fcb-9579-6a3dbe5fbfc1.png"></p>
+
 ---
+<br />
+
 # :beer: [이든파이낸셜 Edenden 프로젝트](https://github.com/orgs/EdenFN/projects/1)
 <br />
 
 
 ### Eden_Common - [Eden_Common](https://github.com/EdenFN/Eden_Common)
+<br />
+
+### Eden_DevOps - [Eden_DevOps](https://github.com/EdenFN/Eden_DevOps)
+<br />
+
+---
 <br />
 
 ### User Web Front - [Eden_React_User_Edenden](https://github.com/EdenFN/Eden_React_User_Edenden)
