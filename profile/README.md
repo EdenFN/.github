@@ -22,6 +22,7 @@
 <br />
 
 ### Policy Web Front - [Eden_React_Policy](https://github.com/EdenFN/Eden_React_Policy) 
+### Partnership Web Front - [Eden_Next_Partnership_Edenden](https://github.com/EdenFN/Eden_Next_Partnership_Edenden) 
 <br />
 
 ---
