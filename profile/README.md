@@ -8,7 +8,7 @@
 ### Eden_Common - [Eden_Common](https://github.com/EdenFN/Eden_Common)
 <br />
 
-### Eden_DevOps - [Eden_DevOps](https://github.com/EdenFN/Eden_DevOps)
+### Eden_DevOps - [KLC_Common](https://github.com/EdenFN/KLC_Common)
 <br />
 
 ---
