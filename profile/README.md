@@ -5,10 +5,10 @@
 
 
 
-### Eden_이든든 프로젝트 - [E-denden](https://github.com/EdenFN/Eden_Common)
+### Eden_이든든 프로젝트 - [E-denden Common](https://github.com/EdenFN/Eden_Common)
 <br />
 
-### Eden_KLC 프로젝트 - [KLC 사내전산](https://github.com/EdenFN/KLC_Common)
+### Eden_KLC 프로젝트 - [KLC 사내전산 Common](https://github.com/EdenFN/KLC_Common)
 <br />
 
 ---
